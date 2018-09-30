@@ -1,0 +1,31 @@
+Usuarios
+nombre de usuario
+correo
+contraseña
+
+profesor
+alumnos
+administrador
+
+retos
+eventos
+pruebas
+cuestionarios
+
+
+quizzes
+preguntas
+respuestas
+
+
+pruebas - tipos (contra reloj, campal, ultimo en pie, alcanza la cima)
+
+premios - tipos (tiempo de entrega, asistencia, elección de lugar para pasar, complejidad de evidencias, puntos extra)
+monedas(lobocoins)
+movimientos de monedas(donaciones)
+
+reportes
+clasificación en el curso,
+clasificacion mensual,
+reporte de actividad,
+
