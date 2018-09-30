@@ -7,6 +7,8 @@ profesor
 alumnos
 administrador
 
+cursos
+
 retos
 eventos
 pruebas
