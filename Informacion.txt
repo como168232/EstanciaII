@@ -31,3 +31,9 @@ clasificación en el curso,
 clasificacion mensual,
 reporte de actividad,
 
+
+preguntas abiertas (opcion para ser calificadas)
+
+prueba donde mientras aparece una pregunta, los inscritos ven las posibles respuestas y el primero que da click sobre la correcta obtiene puntaje
+
+cuando se gane un reto y se consiga la recompensa, esta será obtenida en forma de monedas, las cuales al momento de ser entregadas se mostrará la opción de elegir entre guardarlas para su puso posterior o comprar los beneficios preestablecidas en el reto superado.
